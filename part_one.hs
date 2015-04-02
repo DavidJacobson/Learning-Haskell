@@ -9,7 +9,7 @@ doubleSmallNumber x = if x > 100
                       else x * 2
 
 -- Lists
-someInts = [1,3,4,5
+someInts = [1,3,4,5]
 -- Functions on lists
 oneThroughTen = [2,3,4] ++ [5,6,7,8,9,10]
 1 : oneThroughTen  -- Missed the 1
